@@ -10,4 +10,4 @@
 [![npm](https://img.shields.io/npm/v/libsignal.svg)](https://www.npmjs.com/package/libsignal)
 [![npm](https://img.shields.io/npm/l/libsignal.svg)](https://github.com/ForstaLabs/libsignal-node)
 
-> *Créditos a:* [`WhiskeySockets`](https://github.com/WhiskeySockets/Baileys)
+> *Créditos a:* [`WhiskeySockets`](https://github.com/WhiskeySockets/libsignal-node)
